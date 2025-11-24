@@ -1,9 +1,6 @@
 # Game-Code
 
 
-Here are some clean, simple descriptions you can use for a website where you can download PC games. I’ll give you a few options depending on the type of site you want to describe:
-
----
 
 1. General Game Download Website (Safe & Legal)
 
